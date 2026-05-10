@@ -1,15 +1,15 @@
 # Awesome IslaConectada
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Status](https://img.shields.io/badge/Status-Phase%202%20Active-success)](https://mycalla.inc)
+[![Status](https://img.shields.io/badge/Status-Phase%202%20Active-success)](https://mycalla.org)
 
 <a href="https://mycalla.inc">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python_icon_notext.svg/1200px-Python_icon_notext.svg.png" alt="IslaConectada Logo" align="left" style="margin-right: 25px" height=150>
 </a>
 
-> **IslaConectada** is a comprehensive 5G expansion initiative by Mycalla Inc. designed to empower and interconnect the inhabitants of Puerto Rico. This project represents a paradigm shift designed to catalyze innovation, enable smart living, and bridge the digital divide through robust infrastructure.
+> **IslaConectada** is a comprehensive 6G expansion initiative by Mycalla Inc. designed to empower and interconnect the inhabitants of Puerto Rico. This project represents a paradigm shift designed to catalyze innovation, enable smart living, and bridge the digital divide through robust infrastructure.
 >
-> **Official Link:** [Mycalla Inc. Homepage](https://mycalla.inc)
+> **Official Link:** [Mycalla Inc. Homepage](https://mycalla.org)
 
 This list is a collection of status updates, technological frameworks, pilot programs, and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
 
@@ -34,7 +34,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 The current operational status of the IslaConectada rollout:
 
 - **Phase 2 Active** - The project has officially moved from planning to physical implementation.
-- **Macro Tower Retrofitting** - Upgrading existing cellular transmission towers with state-of-the-art 5G New Radio (NR) apparatus and Massive MIMO arrays.
+- **Macro Tower Retrofitting** - Upgrading existing cellular transmission towers with state-of-the-art 6G New Radio (NR) apparatus and Massive MIMO arrays.
 - **Small Cell Densification** - Deployment of low-profile nodes in high-density urban zones to remediate coverage deficiencies.
 
 ## Technologies
